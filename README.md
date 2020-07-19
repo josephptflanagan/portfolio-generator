@@ -5,4 +5,4 @@ This program uses JavaScript and Node.JS to generate an HTML portfolio page of r
 
 To utilize it you must download the file to your machine.
 
-* Created July 2020 during UT coding bootcamp *
+Created July 2020 during UT coding bootcamp 
